@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/RashidAlackal/react-portfolio/static/css/main.92166397.chunk.css",
+    "main.js": "/RashidAlackal/react-portfolio/static/js/main.658ed86c.chunk.js",
+    "main.js.map": "/RashidAlackal/react-portfolio/static/js/main.658ed86c.chunk.js.map",
+    "runtime-main.js": "/RashidAlackal/react-portfolio/static/js/runtime-main.c1d8a751.js",
+    "runtime-main.js.map": "/RashidAlackal/react-portfolio/static/js/runtime-main.c1d8a751.js.map",
+    "static/css/2.de424728.chunk.css": "/RashidAlackal/react-portfolio/static/css/2.de424728.chunk.css",
+    "static/js/2.5250dd0c.chunk.js": "/RashidAlackal/react-portfolio/static/js/2.5250dd0c.chunk.js",
+    "static/js/2.5250dd0c.chunk.js.map": "/RashidAlackal/react-portfolio/static/js/2.5250dd0c.chunk.js.map",
+    "index.html": "/RashidAlackal/react-portfolio/index.html",
+    "precache-manifest.2b1905e8c1d60d299fd438b143e33bf0.js": "/RashidAlackal/react-portfolio/precache-manifest.2b1905e8c1d60d299fd438b143e33bf0.js",
+    "service-worker.js": "/RashidAlackal/react-portfolio/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/RashidAlackal/react-portfolio/static/css/2.de424728.chunk.css.map",
+    "static/css/main.92166397.chunk.css.map": "/RashidAlackal/react-portfolio/static/css/main.92166397.chunk.css.map",
+    "static/js/2.5250dd0c.chunk.js.LICENSE.txt": "/RashidAlackal/react-portfolio/static/js/2.5250dd0c.chunk.js.LICENSE.txt",
+    "static/media/cv_html-css.png": "/RashidAlackal/react-portfolio/static/media/cv_html-css.3082fdd4.png",
+    "static/media/portfolio-react.png": "/RashidAlackal/react-portfolio/static/media/portfolio-react.fe23680a.png",
+    "static/media/shopping-cart-html-css.png": "/RashidAlackal/react-portfolio/static/media/shopping-cart-html-css.7a5dfe31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1d8a751.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.5250dd0c.chunk.js",
+    "static/css/main.92166397.chunk.css",
+    "static/js/main.658ed86c.chunk.js"
+  ]
+}
